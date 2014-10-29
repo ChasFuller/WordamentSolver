@@ -1,0 +1,9 @@
+C:\Users\e87ws34\Documents\Visual Studio 2013\Projects\WordamentSolver\WordamentSolver.Business.UnitTests\obj\Debug\WordamentSolver.Business.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\e87ws34\Documents\Visual Studio 2013\Projects\WordamentSolver\WordamentSolver.Business.UnitTests\bin\Debug\WordamentSolver.Business.UnitTests.dll
+C:\Users\e87ws34\Documents\Visual Studio 2013\Projects\WordamentSolver\WordamentSolver.Business.UnitTests\bin\Debug\WordamentSolver.Business.UnitTests.pdb
+C:\Users\e87ws34\Documents\Visual Studio 2013\Projects\WordamentSolver\WordamentSolver.Business.UnitTests\bin\Debug\WordamentSolver.Business.Interfaces.dll
+C:\Users\e87ws34\Documents\Visual Studio 2013\Projects\WordamentSolver\WordamentSolver.Business.UnitTests\bin\Debug\WordamentSolver.Business.Objects.dll
+C:\Users\e87ws34\Documents\Visual Studio 2013\Projects\WordamentSolver\WordamentSolver.Business.UnitTests\bin\Debug\WordamentSolver.Business.Interfaces.pdb
+C:\Users\e87ws34\Documents\Visual Studio 2013\Projects\WordamentSolver\WordamentSolver.Business.UnitTests\bin\Debug\WordamentSolver.Business.Objects.pdb
+C:\Users\e87ws34\Documents\Visual Studio 2013\Projects\WordamentSolver\WordamentSolver.Business.UnitTests\obj\Debug\WordamentSolver.Business.UnitTests.dll
+C:\Users\e87ws34\Documents\Visual Studio 2013\Projects\WordamentSolver\WordamentSolver.Business.UnitTests\obj\Debug\WordamentSolver.Business.UnitTests.pdb
