@@ -1,5 +1,0 @@
-c:\users\e87ws34\documents\visual studio 2013\Projects\WordamentSolver\WordamentSolver.Business.Interfaces\bin\Debug\WordamentSolver.Business.Interfaces.dll
-c:\users\e87ws34\documents\visual studio 2013\Projects\WordamentSolver\WordamentSolver.Business.Interfaces\bin\Debug\WordamentSolver.Business.Interfaces.pdb
-c:\users\e87ws34\documents\visual studio 2013\Projects\WordamentSolver\WordamentSolver.Business.Interfaces\obj\Debug\WordamentSolver.Business.Interfaces.csprojResolveAssemblyReference.cache
-c:\users\e87ws34\documents\visual studio 2013\Projects\WordamentSolver\WordamentSolver.Business.Interfaces\obj\Debug\WordamentSolver.Business.Interfaces.dll
-c:\users\e87ws34\documents\visual studio 2013\Projects\WordamentSolver\WordamentSolver.Business.Interfaces\obj\Debug\WordamentSolver.Business.Interfaces.pdb
