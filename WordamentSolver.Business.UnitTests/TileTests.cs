@@ -12,9 +12,12 @@ namespace WordamentSolver.Business.UnitTests
         [TestMethod]
         public void Tile_GetAndSetLetter_LetterShouldMatch()
         {
+            // Setup
             char firstTestLetter = 'X';
             char lowercaseTestLetter = 'b';
             Tile testTile = new Tile(firstTestLetter);
+            
+            // Assertions
             Assert.AreEqual(firstTestLetter, testTile.Letter, "First test letter doesnt match");
             testTile.Letter = lowercaseTestLetter;
             Assert.AreEqual(lowercaseTestLetter, testTile.Letter, "Lowercase test letter doesn't match");
