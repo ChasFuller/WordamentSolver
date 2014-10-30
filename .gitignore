@@ -3,8 +3,8 @@
 **/*.user
 **/**/*.user
 
-bin
-obj
+#bin
+#obj
 _ReSharper*
 *.dotCover
 
@@ -27,3 +27,4 @@ packages
 
 AppPackages/
 build/*
+#TestResults/
